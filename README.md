@@ -1,4 +1,4 @@
-# Desafio técnico de QA para o Sicredi
+# Esqueleto de automação de API com Java e RestAssured
 
 Este projeto contém uma estrutura básica de exemplo de testes automatizados de API utilizando Java e RestAssured.
 
